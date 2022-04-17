@@ -4,4 +4,8 @@ available on the google play market
 from https://play.google.com/store/apps/details?id=uz.amirdev.todomax
 
 
-![todomax](https://user-images.githubusercontent.com/99003321/163702590-69c77fe8-3d51-416a-885b-2b34cdab016a.gif)
+
+
+https://user-images.githubusercontent.com/99003321/163702613-3dbd7cc2-ae18-4d5e-94fd-785fcd4b9dcc.mp4
+
+
